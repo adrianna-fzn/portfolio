@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c650abbc-93d5-4898-9582-1203d031dd8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/apropos.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projets/MatinBrun.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projets/RouagesDestin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projets/VRReeducatio.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projets/Vapeur.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="c650abbc-93d5-4898-9582-1203d031dd8e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +48,7 @@
       <recent name="C:\Users\adria\Desktop\etudes\portfolio\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\adria\Desktop\etudes\portfolio\projets" />
       <recent name="C:\Users\adria\Desktop\etudes\portfolio\css" />
       <recent name="C:\Users\adria\Desktop\etudes\portfolio" />
     </key>
@@ -84,7 +76,7 @@
       <workItem from="1774255655832" duration="3702000" />
       <workItem from="1774261771603" duration="2113000" />
       <workItem from="1774275299969" duration="4579000" />
-      <workItem from="1774341537668" duration="1108000" />
+      <workItem from="1774341537668" duration="1449000" />
     </task>
     <servers />
   </component>

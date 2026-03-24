@@ -10,10 +10,6 @@ main {
     align-content: center;
 }
 
-main div {
-    margin: 50px;
-}
-
 header {
     position: sticky;
     top: 0;
@@ -143,6 +139,11 @@ a:visited {
     -ms-transform: skewY(-2deg);
     -o-transform: skewY(-2deg);
     transform: skewY(-2deg);
+
+
+    h1 {
+        padding-left: 50px;
+    }
 }
 
 #parcours > .content {
@@ -160,18 +161,31 @@ a:visited {
     padding: 30px;
 }
 
+#projets {
+    margin-top: 50px;
+
+    h1 {
+        padding-left: 50px;
+    }
+}
+
 .TwoProjects{
     display: flex;
+    margin: 50px;
+    align-items: center;
 }
 
 .project {
     background-color: #2F2859;
     border-radius: 25px;
+    margin: 50px;
     width: 400px;
+    height: 450px;
     padding: 30px;
 
     img {
         width: 100%;
         border-radius: 20px 20px 0px 0px;
     }
+
 }
