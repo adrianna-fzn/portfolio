@@ -7,13 +7,13 @@ body {
 
 main {
     height: 100%;
-    align-content: center;
+    /*align-content: center;*/
 }
 
 header {
     position: sticky;
     top: 0;
-    z-index: 1;
+    z-index: 2;
 }
 
 a {
@@ -187,5 +187,38 @@ a:visited {
         width: 100%;
         border-radius: 20px 20px 0px 0px;
     }
+}
 
+.couverture {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.photoCouverture {
+    width: 50%;
+}
+
+.projets {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.images {
+    display: flex;
+
+    img {
+        height: 300px;
+        margin: 20px;
+    }
+}
+
+.content {
+    background-color: #2F2859;
+    border-radius: 25px;
+    margin: 50px;
+    width: 900px;
+    padding: 30px;
 }
